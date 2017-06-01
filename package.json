@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
